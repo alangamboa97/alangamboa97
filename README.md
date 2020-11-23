@@ -1,7 +1,7 @@
 ### Hi there, I'm Alan! 👋
 
 
-## I'm a Python and Djando Developer, Telematics Engineer in progress
+## I'm a Python and Djando Developer, Telematics Engineer in process
 
 
 - 💻 I’m currently learning Front-End tools 
