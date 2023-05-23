@@ -1,12 +1,12 @@
 ### Hi there, I'm Alan! 👋
 
 
-## I'm a Python and Djando Developer, Telematics Engineer in process
+## I'm a Senior Backend Developer, Telematics Engineer in process
 
 
 - 💻 I’m currently learning Front-End tools 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 
