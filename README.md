@@ -1,7 +1,7 @@
 ### Hi there, I'm Alan! 👋
 
 
-## I'm a Junior Backend Developer, Telematics Engineer in process
+## I'm a Backend Developer, Telematics Engineer in process
 
 
 - 💻 I’m currently learning Front-End tools 
